@@ -28,6 +28,17 @@ Job.create!([{
   remote_ok: false
 },
 {
+  title: "Full Stack Web Instructor",
+  description: "We are looking to hire a Full Stack Web Instructor and Curriculum Engineer to join our diverse instructional team. You’ll be working with a team of 7 instructors and 4 student success staff who teach at and operate our college. You’ll be responsible for teaching courses, iterating on curriculum, coaching students, and influencing the pedagogy of how we operate our college.",
+  apply_url: "https://jobs.lever.co/makeschool/a5e40a17-0617-4710-b6f5-1bfa20e1b449",
+  job_type: "Full-time",
+  location: "San Francisco, CA",
+  job_author: "Make School",
+  user_id: user.id,
+  avatar: Rails.root.join("app/assets/images/MS.png").open,
+  remote_ok: false
+},
+{
   title: "Product Designer",
   description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Donec sed odio dui. Venenatis dapibus posuere. Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna.",
   url: "https://slack.com",
