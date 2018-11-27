@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05905b27-df2a-4ead-a1d5-69b14470e263" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -82,7 +81,7 @@
           <entry key="Gemfile" value="177" />
           <entry key="erb" value="65" />
           <entry key="gitignore" value="7" />
-          <entry key="rb" value="39" />
+          <entry key="rb" value="44" />
           <entry key="spring" value="1" />
           <entry key="yml" value="10" />
         </counts>
@@ -91,7 +90,7 @@
         <counts>
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="RHTML" value="65" />
-          <entry key="Ruby" value="216" />
+          <entry key="Ruby" value="221" />
           <entry key="YAML" value="10" />
         </counts>
       </usages-collector>
@@ -111,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/application.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="225">
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -362,18 +361,18 @@
       <workItem from="1542670959370" duration="2327000" />
       <workItem from="1542673511391" duration="4969000" />
       <workItem from="1542834850620" duration="253000" />
-      <workItem from="1543254093449" duration="8543000" />
+      <workItem from="1543254093449" duration="8768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16092000" />
+    <option name="totallyTimeSpent" value="16317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16203208" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16203208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -386,7 +385,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2688822" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2688822" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32883817" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -678,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/application.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="225">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
         </state>
       </provider>
     </entry>
