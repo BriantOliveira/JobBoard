@@ -9,6 +9,7 @@ Bundler.require(*Rails.groups)
 module JobBoard
   class Application < Rails::Application
     config.active_job.queue_adapter = :sidekiq
+    config.secret_key = '4878c241d5309b298bb70e2daf94bcc78239a643a3a4bb5fef1a87f151538574481d25980488bb502f7ea6bb078f36611876bc7c734b0affbffcf976ef07a713'
     config.application_name = 'Job Board'
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 5.1
