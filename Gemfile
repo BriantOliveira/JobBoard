@@ -66,6 +66,7 @@ gem "figaro"
 
 
 
+
 group :development, :test do
   gem 'better_errors', '~> 2.4'
   gem 'guard', '~> 2.14'
