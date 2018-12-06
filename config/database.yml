@@ -20,9 +20,21 @@ development:
 # re-generated from your development database when you run "rake".
 # Do not set this db to the same as development or production.
 test:
-  <<: *default
-  database: db/test.sqlite3
+  adapter: postgresql
+  encoding: unicode
+  database: sample_postgres_test
+  pool: 5
+  username: sample_postgres
+  password:
 
 production:
-  <<: *default
-  database: db/production.sqlite3
+  adapter: postgresql
+  encoding: unicode
+  database: dddjlnlldfhnn3
+  pool: 5
+  username: jdhdfrmxokrdrc
+  password: 0ec8319fdb65b42237a9a055796f8300ed8b8f728699656c34a8f427bc909d2e
+  host: ec2-54-243-150-10.compute-1.amazonaws.com
+  port: 5432
+  uri: postgres://jdhdfrmxokrdrc:0ec8319fdb65b42237a9a055796f8300ed8b8f728699656c34a8f427bc909d2e@ec2-54-243-150-10.compute-1.amazonaws.com:5432/dddjlnlldfhnn3
+
