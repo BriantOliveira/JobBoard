@@ -1,6 +1,5 @@
 {
   "name": "job_board",
   "private": true,
-  "start": "rails s",
   "dependencies": {}
 }
