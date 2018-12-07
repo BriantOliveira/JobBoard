@@ -1,7 +1,6 @@
 class CreateJobs < ActiveRecord::Migration[5.1]
   def change
     create_table :jobs do |t|
-      t.belongs_to :user, index: true
       t.string :title
       t.text :description
       t.string :url
